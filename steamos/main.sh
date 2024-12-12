@@ -17,15 +17,13 @@ done
 
 if [ ! -d "$l_folder" ]; then
   read -p "Can't find Emulation folder; Just download to ROMS folder here?" -n 1 -r
-  echo    # (optional) move to a new line
+  echo
   if [[ ! $REPLY =~ ^[Yy]$ ]]; then
     exit 1
   fi
   l_folder="ROMS/$l_folder"
 fi
 
-if [ -d "$updir" ]; then
-  updir=".$updir"
 # Step 1 - check for rclone and download/extract if missing
 
 if [ ! -f "rclone" ]; then
