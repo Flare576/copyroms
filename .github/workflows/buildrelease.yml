@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   build:
-    name: Build binaries
+    name: Build zips
     runs-on: ubuntu-latest
     steps:
 
@@ -20,6 +20,7 @@ jobs:
         run: |
           cd ${{github.workspace}}/windows
           cp -r ../FILTERS .
+          ls -al .
           zip -r .  -f windows.zip
           gh release upload ${{github.event.release.tag_name}} windows.zip
         env:
