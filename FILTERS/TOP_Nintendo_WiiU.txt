@@ -1,0 +1,15 @@
+﻿# Top 14 WiiU games rated by MetaCritic & GameFAQs, Roughly 145GB
+Axiom Verge (USA) (En,Fr,De,Es,It,Pt).zip
+Bayonetta (USA) (En,Ja,Fr,De,Es,It).zip
+Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).zip
+Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (Rev 1).zip
+Hyrule Warriors (USA) (En,Fr,Es) (Rev 1).zip
+Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).zip
+Legend of Zelda, The - The Wind Waker HD (USA, Asia) (En,Fr,Es).zip
+Mario Kart 8 (USA) (En,Fr,Es) (Rev 5).zip
+Rayman Legends (USA) (En,Fr,Es).zip
+Skylanders - Swap Force (USA) (En,Fr,Es,Pt).zip
+Super Mario 3D World (USA) (En,Fr,Es) (Rev 2).zip
+Super Mario Maker (USA) (En,Fr,Es) (Rev 5).zip
+Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 9).zip
+Xenoblade Chronicles X (USA) (En,Fr,Es).zip

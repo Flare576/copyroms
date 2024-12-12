@@ -1,0 +1,44 @@
+﻿# Top 43 2600 games rated by Reddit, Roughly 1MB
+Adventure (USA).zip
+Asteroids (Japan, USA) (En).zip
+Atlantis (USA).zip
+Berzerk (Japan, USA) (En).zip
+Breakout ~ Breakaway IV (Japan, USA) (En).zip
+Carnival (USA).zip
+Centipede (Japan, USA) (En).zip
+Chopper Command (USA).zip
+Combat ~ Tank-Plus (USA).zip
+Cosmic Ark (USA).zip
+Demon Attack (USA) (Rev 1).zip
+Demons to Diamonds (USA).zip
+Enduro (USA).zip
+Fire Fighter (USA).zip
+Freeway (USA).zip
+Frogger (USA).zip
+Frogs and Flies (USA).zip
+H.E.R.O. (USA).zip
+Haunted House (USA).zip
+Jungle Hunt (USA).zip
+Kaboom! (USA).zip
+Kangaroo (USA).zip
+Keystone Kapers (USA).zip
+Laser Blast (USA).zip
+MegaMania - A Space Nightmare (USA).zip
+Missile Command (USA).zip
+Moon Patrol (USA).zip
+Ms. Pac-Man (USA).zip
+Phoenix (USA).zip
+Pitfall II - Lost Caverns (USA).zip
+Pitfall! - Pitfall Harry's Jungle Adventure (USA).zip
+River Raid (USA).zip
+Robot Tank (USA).zip
+Solaris (USA).zip
+Space Invaders (USA).zip
+Stampede (USA).zip
+Star Wars - The Empire Strikes Back (USA).zip
+Super Breakout (USA).zip
+Tapper (USA).zip
+Turmoil (USA).zip
+Warlords (USA).zip
+Wizard of Wor (USA).zip
+Yars' Revenge (USA).zip
