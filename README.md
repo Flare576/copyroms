@@ -2,14 +2,12 @@
 
 ## TL;DR
 
-1. Download the zip that matches your OS to the folder you want your backups
+1. Click on [Releases] to the right and download the zip that matches your OS to the folder you want your backups
 2. Extract the zip
 3. EDIT THE GAME LISTS IN THE `FILTERS` FOLDER
 4. Run the script for the system you're backing up
 
 ## Details
-
-## The Goal
 
 CopyRoms is a set of scripts and lists designed to make backing up your video game collection easy.
 
@@ -50,6 +48,17 @@ The SteamOS scripts download the Linux version of rclone and are written in Bash
 
 I don't actually have a machine running OSx to test the scripts, but as long as you put [Download Rclone] and put the executable in the same folder as the scripts, you should be OK!
 
+#### Acknowledgements
+
+- [Myrient] for hosting all of the ROMS
+- UnexpectedPanda for [ReTool]
+- [EmuDeck] for managing Emulation on the Steam Deck
+- [WagnersTechTalk] for their guide on [EmuDeck]
 
 [1G1R]: https://www.reddit.com/r/RetroPie/comments/mtzcy6/create_your_own_1g1r_set_for_redump_and_nointro/
 [Download Rclone]: https://rclone.org/downloads/
+[Releases]: https://github.com/Flare576/copyroms/releases
+[EmuDeck]: https://github.com/dragoonDorise/EmuDeck
+[Myrient]: https://myrient.erista.me
+[WagnersTechTalk]: https://wagnerstechtalk.com/sd-emudeck/
+[ReTool]: https://github.com/unexpectedpanda/retool
