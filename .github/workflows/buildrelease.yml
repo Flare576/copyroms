@@ -20,8 +20,7 @@ jobs:
         run: |
           cd ${{github.workspace}}/windows
           cp -r ../FILTERS .
-          ls -al .
-          zip -r .  -f windows.zip
+          zip -r windows.zip .
           gh release upload ${{github.event.release.tag_name}} windows.zip
         env:
           GITHUB_TOKEN: ${{ github.TOKEN }}
@@ -31,7 +30,7 @@ jobs:
         run: |
           cd ${{github.workspace}}/steamos
           cp -r ../FILTERS .
-          zip -r .  -f steamos.zip
+          zip -r steamos.zip .
           gh release upload ${{github.event.release.tag_name}} steamos.zip
         env:
           GITHUB_TOKEN: ${{ github.TOKEN }}
