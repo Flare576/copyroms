@@ -1,6 +1,6 @@
  #!/bin/bash
 
-filter="FILTERS\$1"
+filter="FILTERS/$1"
 r_folder="$2"
 l_folder="$3"
 unzipAfter="$4"
