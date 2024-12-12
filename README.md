@@ -15,7 +15,7 @@ CopyRoms is a set of scripts and lists designed to make backing up your video ga
 
 ### The FILTERS Lists
 
-In order to give you a starting point, I used a two-step process to create an initial list of games for each system
+In order to give you a starting point, I used a three-step process to create an initial list of games for each system
 
 1. Use the [1G1R] tools to generate a list of preferred ROMS for English speaking USA Residents
 2. Use various websites to determine the "Top" titles for a system
