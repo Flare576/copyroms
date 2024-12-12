@@ -1,4 +1,4 @@
-name: Publish utility on release
+name: Publish scripts on release
 
 on:
   release:
@@ -20,8 +20,8 @@ jobs:
         run: |
           cd ${{github.workspace}}/windows
           cp -r ../FILTERS .
-          zip -r windows.zip .
-          gh release upload ${{github.event.release.tag_name}} windows.zip
+          zip -r copyroms_windows.zip .
+          gh release upload ${{github.event.release.tag_name}} copyroms_windows.zip
         env:
           GITHUB_TOKEN: ${{ github.TOKEN }}
         shell: bash
@@ -30,8 +30,8 @@ jobs:
         run: |
           cd ${{github.workspace}}/steamos
           cp -r ../FILTERS .
-          zip -r steamos.zip .
-          gh release upload ${{github.event.release.tag_name}} steamos.zip
+          zip -r copyroms_steamos.zip .
+          gh release upload ${{github.event.release.tag_name}} copyroms_steamos.zip
         env:
           GITHUB_TOKEN: ${{ github.TOKEN }}
         shell: bash
