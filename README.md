@@ -32,7 +32,7 @@ The scripts use a 4-step process to download the ROMS you specify:
 
 #### Windows
 
-The Windows scripts download all ROMS to the `ROMS` folder in the same folder as the scripts.
+The Windows scripts download all ROMS to the `ROMS` folder in the same folder as the scripts. You should be able to just double-click the system-specific `.bat` files after editing the game list!
 
 #### SteamOS
 
