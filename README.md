@@ -46,7 +46,7 @@ The SteamOS scripts download the Linux version of rclone and are written in Bash
 
 #### OSx
 
-I don't actually have a machine running OSx to test the scripts, but as long as you put [Download Rclone] and put the executable in the same folder as the scripts, you should be OK!
+I don't actually have a machine running OSx to test the scripts, but as long as you [Download Rclone] and put the executable in the same folder as the scripts, you should be OK!
 
 #### Acknowledgements
 
