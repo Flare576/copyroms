@@ -36,7 +36,7 @@ The Windows scripts download all ROMS to the `ROMS` folder in the same folder as
 
 #### SteamOS
 
-The SteamOS scripts are designed to be run in the `Emulation` folder that EmuDeck creates during setup - Move the `steamos.zip` file there before Extracting it!
+The SteamOS scripts are designed to be run in the `Emulation` folder that EmuDeck creates during setup - Move the `copyroms_steamos.zip` file there before Extracting it!
 
 Also, you should be able to Right-click (left-trigger) on the script and choose `Run in Konsole` - You don't even need a keyboard!
 
@@ -52,6 +52,7 @@ I don't actually have a machine running OSx to test the scripts, but as long as 
 
 - [Myrient] for hosting all of the ROMS
 - UnexpectedPanda for [ReTool]
+- [ReDump] and [No-Intro] for maintaining archival lists, and [CLRMamePro] for the data manager
 - [EmuDeck] for managing Emulation on the Steam Deck
 - [WagnersTechTalk] for their guide on [EmuDeck]
 
@@ -62,3 +63,6 @@ I don't actually have a machine running OSx to test the scripts, but as long as 
 [Myrient]: https://myrient.erista.me
 [WagnersTechTalk]: https://wagnerstechtalk.com/sd-emudeck/
 [ReTool]: https://github.com/unexpectedpanda/retool
+[ReDump]: http://redump.org/
+[No-Intro]: https://no-intro.org/
+[CLRMamePro]: https://mamedev.emulab.it/clrmamepro/
