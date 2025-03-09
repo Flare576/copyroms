@@ -1,4 +1,5 @@
 # 1 Game, 1 Rom List, Roughly 10.7TB
+# A dash before the filename indicates Myrient does not have a matching file for the 1G1R entry
 007 - Blood Stone (USA, Europe) (En,Fr,De).zip
 007 - Quantum of Solace (USA, Europe) (En,Fr).zip
 007 Legends (USA) (En,Fr,De).zip
