@@ -1,16 +1,17 @@
-﻿# 1 Game, 1 Rom List, Roughly 9.61TB
+# 1 Game, 1 Rom List, Roughly 10.7TB
+# A dash before the filename indicates Myrient does not have a matching file for the 1G1R entry
 007 - Blood Stone (USA, Europe) (En,Fr,De).zip
 007 - Quantum of Solace (USA, Europe) (En,Fr).zip
-007 Legends (USA, Europe) (En,Fr,De).zip
+007 Legends (USA) (En,Fr,De).zip
 11eyes CrossOver (Japan).zip
 2010 FIFA World Cup South Africa (USA, Asia) (En,Fr,Es).zip
 2014 FIFA World Cup Brazil (USA) (En,Fr,Es).zip
 50 Cent - Blood on the Sand (USA, Europe) (En,Fr,De).zip
 A Ressha de Ikou HX (Japan).zip
 A-Train HX (Europe).zip
-ABC Wipeout - Create & Crash (USA).zip
-ABC Wipeout - In the Zone (USA).zip
-ABC Wipeout 2 (USA).zip
+Wipeout - Create & Crash (USA).zip
+Wipeout - In the Zone (USA).zip
+Wipeout 2 (USA).zip
 ABC Wipeout 3 (USA).zip
 Absolute - Blazing Infinity (Japan).zip
 AC-DC Live - Rock Band Track Pack (USA).zip
@@ -22,8 +23,8 @@ Adrenalin Misfits (USA).zip
 Adventure Time - Explore the Dungeon Because I Don't Know! (USA, Europe).zip
 Adventure Time - Finn & Jake Investigations (USA).zip
 Adventure Time - The Secret of the Nameless Kingdom (USA, Australia).zip
-Adventures of Tintin, The - The Game (USA) (En,Fr,De,Es,It,Pt).zip
-Adventures of Tintin, The - The Secret of the Unicorn (Europe) (Pl,Ru).zip
+Adventures of Tintin, The - The Game (USA).zip
+-Adventures of Tintin, The - The Secret of the Unicorn (Europe) (Pl,Ru).zip
 AFL Live (Australia).zip
 AFL Live 2 (Australia).zip
 Afro Samurai (USA).zip
@@ -31,7 +32,7 @@ Agarest Senki - Re-appearance (Japan).zip
 Agarest Senki Zero - Dawn of War (Japan).zip
 Air Conflicts - Pacific Carriers (Europe).zip
 Air Conflicts - Secret Wars (USA).zip
-Air Conflicts - Vietnam (USA, Europe).zip
+Air Conflicts - Vietnam (USA).zip
 Akai Katana (USA).zip
 Akai Katana Shin (Japan).zip
 Akatsuki no Amaneka to Aoi Kyojin - Pashiate Bunmei Kenkyuukai Koubouki (Japan).zip
@@ -43,7 +44,7 @@ Alien - Isolation (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1) (Installation
 Alien Breed Trilogy (Europe) (En,De).zip
 Aliens - Colonial Marines (USA, Europe) (En,Fr,De,Es,It,Pl).zip
 Aliens vs. Predator (USA, Europe) (En,Fr,De,Es,It).zip
-All-Pro Football 2K8 (USA).zip
+-All-Pro Football 2K8 (USA).zip
 Alone in the Dark (USA, Europe) (En,Fr,De,Es,It).zip
 Alpha Protocol (USA, Europe) (En,Fr,De,Es,It).zip
 Alvin and the Chipmunks - Chipwrecked (USA).zip
@@ -51,7 +52,7 @@ Amazing Spider-Man 2, The (USA, Europe) (En,Fr,De,Es,It).zip
 Amazing Spider-Man, The (USA, Europe) (En,Fr,De,Es,It).zip
 America's Army - True Soldiers (USA).zip
 Amped 3 (USA) (En,Fr,De,It).zip
-Anarchy Reigns ~ Max Anarchy (World) (En,Ja,Fr,Es,It).zip
+Anarchy Reigns ~ Max Anarchy (USA, Japan) (En,Ja,Fr,Es,It).zip
 Angry Birds Star Wars (USA) (En,Fr,De,Es,It,Pt).zip
 Angry Birds Trilogy (USA, Europe).zip
 Apache - Air Assault (USA).zip
@@ -61,7 +62,7 @@ Arcana Heart 3 (Europe).zip
 Arcania - The Complete Tale (Europe) (En,Ja,Fr,De,Es,It,Pl,Ru).zip
 Are You Smarter Than a 5th Grader Game Time (USA).zip
 Armored Core - For Answer (USA) (En,Fr,Es).zip
-Armored Core - Verdict Day (USA, Asia) (En,Fr,Es).zip
+Armored Core - Verdict Day (USA).zip
 Armored Core 4 (USA).zip
 Armored Core V (USA).zip
 Army of Two (USA).zip
@@ -77,14 +78,14 @@ Assassin's Creed III (USA) (En,Fr,Es,Pt) (Disc 1) (Single-player) (Rev 1).zip
 Assassin's Creed III (USA) (En,Fr,Es,Pt) (Disc 2) (Multiplayer) (Rev 1).zip
 Assassin's Creed IV - Black Flag (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Disc 1).zip
 Assassin's Creed IV - Black Flag (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Disc 2).zip
-Asterix at the Olympic Games (Europe, Canada).zip
+Asterix at the Olympic Games (Canada).zip
 Asura's Wrath (World).zip
 Atsumare! Pinata (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl,Cs,Hu,Sk).zip
 Attack of the Movies 3-D (USA).zip
 Autobahn Polizei (USA).zip
 Back to the Future - The Game - 30th Anniversary Edition (USA) (En,Fr,De).zip
 Backbreaker (USA, Europe).zip
-Backyard Football '10 (USA).zip
+-Backyard Football '10 (USA).zip
 Backyard Sports - Rookie Rush (USA).zip
 Backyard Sports - Sandlot Sluggers (USA).zip
 Baja - Edge of Control (USA).zip
@@ -105,7 +106,7 @@ Batman - The Telltale Series (USA) (En,Fr,De,Es,Pt,Zh,Ru).zip
 Battle Fantasia (USA) (En,Ja).zip
 Battle vs. Chess (Europe).zip
 Battlefield - Bad Company (USA) (Gold Edition).zip
-Battlefield - Bad Company 2 (USA, Asia) (En,Fr) (Limited Edition).zip
+Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition).zip
 Battlefield 2 - Modern Combat (USA).zip
 Battlefield 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Disc 1) (Multiplayer-Co-Op).zip
 Battlefield 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru) (Disc 2) (Single-Player Campaign).zip
@@ -113,41 +114,41 @@ Battlefield 4 (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs) (Disc 1).zip
 Battlefield 4 (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs) (Disc 2).zip
 Battlefield Hardline (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1) (Install-Multiplayer).zip
 Battlefield Hardline (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2) (Single Player).zip
-Battleship (USA, Europe) (En,Fr,De,Es,It).zip
+Battleship (USA) (En,Fr,De,Es,It).zip
 Battlestations - Midway (USA, Europe) (En,Fr,De,It).zip
-Battlestations - Pacific (USA, Europe).zip
+Battlestations - Pacific (USA).zip
 Bayonetta (USA, Europe) (En,Ja,Fr,De,Es,It).zip
 Beatles, The - Rock Band (World).zip
 Beautiful Katamari (USA) (En,Ja).zip
-Beijing 2008 (USA, Europe) (En,Fr,De,Es,It).zip
+Beijing 2008 (USA, Europe).zip
 Bejeweled 3 (USA).zip
 Ben 10 - Alien Force - Vilgax Attacks (USA, Europe) (En,Fr,De,Es,It).zip
 Ben 10 - Galactic Racing (USA, Europe).zip
 Ben 10 - Omniverse (USA).zip
 Ben 10 - Omniverse 2 (USA, Europe).zip
-Ben 10 - Ultimate Alien - Cosmic Destruction (USA, Europe).zip
+Ben 10 - Ultimate Alien - Cosmic Destruction (USA).zip
 Beowulf - The Game (USA, Europe) (En,Fr,De,Es,It).zip
-Big League Sports (USA, Europe).zip
+Big League Sports (USA).zip
 Biggest Loser, The - Ultimate Workout (USA, Europe).zip
 Bigs 2, The (USA).zip
-Bigs, The (USA).zip
+Bigs, The (Asia).zip
 Binary Domain (USA).zip
-Biohazard - Revival Selection (Japan, Asia) (Biohazard - Code - Veronica - Kanzenban).zip
-Biohazard - Revival Selection (Japan, Asia) (Biohazard 4).zip
+Biohazard - Revival Selection (Japan) (Biohazard - Code - Veronica - Kanzenban).zip
+Biohazard - Revival Selection (Japan) (Biohazard 4).zip
 Bionic Commando (USA, Europe) (En,Fr,De,Es,It,Ko).zip
-Bionicle Heroes (USA, Europe) (En,Fr,De,Es,It,Da).zip
+Bionicle Heroes (USA) (En,Fr,De,Es,It,Da).zip
 BioShock (World) (En,Fr,De,Es,It).zip
 BioShock - Ultimate Rapture Edition (USA) (BioShock - Bonus Content).zip
 BioShock - Ultimate Rapture Edition (USA) (BioShock 2 - Bonus Content).zip
 BioShock 2 (USA, Europe) (En,Fr,Es).zip
-BioShock Infinite (USA, Europe) (En,Fr,De,Es,It,Pt).zip
+BioShock Infinite (USA, Europe).zip
 BioShock Infinite - The Complete Edition - Bonus Content Disc (USA).zip
 Birds of Steel (USA).zip
 Black College Football - The Xperience (USA).zip
 Black Eyed Peas Experience, The (USA, Europe).zip
 BlackSite - Area 51 (USA, Europe) (En,Fr,De,Es,It).zip
 Blackwater (USA, Europe).zip
-Blades of Time (USA) (En,Fr,Es).zip
+Blades of Time (USA).zip
 Bladestorm - The Hundred Years' War (USA).zip
 BlazBlue - Calamity Trigger (USA, Japan) (En,Ja,Zh,Ko).zip
 BlazBlue - Continuum Shift (USA).zip
@@ -155,10 +156,10 @@ BlazBlue - Continuum Shift Extend (USA).zip
 Blazing Angels - Squadrons of WWII (USA) (En,Fr,De,Es,It).zip
 Blazing Angels 2 - Secret Missions of WWII (USA).zip
 Blitz - The League (USA).zip
-Blitz - The League II (USA, Europe).zip
+Blitz - The League II (Europe).zip
 Blood Bowl (USA) (En,Fr,Es).zip
 Blood Drive (USA).zip
-Bloodbath (Europe).zip
+-Bloodbath (Europe).zip
 Blue Dragon (USA, Europe) (En,Fr) (Disc 1).zip
 Blue Dragon (USA, Europe) (En,Fr) (Disc 2).zip
 Blue Dragon (USA, Europe) (En,Fr) (Disc 3).zip
@@ -168,7 +169,7 @@ Bodycount (USA, Europe) (En,Fr,De,Es,It).zip
 Bomberman Act-Zero (USA) (En,Ja).zip
 Borderlands (World) (En,Fr,De,Es,It).zip
 Borderlands - Double Game Add-On Pack (USA, Europe).zip
-Borderlands - The Pre-Sequel! (USA, Europe) (En,Ja,Fr,De,Es,It).zip
+Borderlands - The Pre-Sequel! (USA).zip
 Borderlands - The Pre-Sequel! Add-On Installation Disc (USA).zip
 Borderlands 2 (World) (En,Ja,Fr,De,Es,It).zip
 Borderlands 2 - Add-On Content Pack (USA).zip
@@ -207,7 +208,7 @@ Cabela's Survival - Shadows of Katmai (USA).zip
 Cabela's Trophy Bucks (USA).zip
 Caladrius (Japan).zip
 Call of Duty - Advanced Warfare (USA, Europe) (En,Fr,De,Es,It,Pl,Ru) (Game Disc).zip
-Call of Duty - Advanced Warfare (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru) (Install Disc).zip
+Call of Duty - Advanced Warfare (USA, Europe) (En,Fr,De,Es,It,Pl,Ru) (Install Disc).zip
 Call of Duty - Black Ops (USA, Europe).zip
 Call of Duty - Black Ops II (World).zip
 Call of Duty - Black Ops III (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).zip
@@ -229,7 +230,7 @@ Carrier Command - Gaea Mission (USA).zip
 Cartoon Network - Punch Time Explosion XL (USA).zip
 Castlevania - Lords of Shadow (USA, Europe) (En,Fr,De,Es,It) (Disc 1).zip
 Castlevania - Lords of Shadow (USA, Europe) (En,Fr,De,Es,It) (Disc 2).zip
-Castlevania - Lords of Shadow 2 (USA, Europe) (En,Fr,De,Es,It,Pt).zip
+Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).zip
 Catherine (USA).zip
 Cave Shooting Collection DLC (Japan) (Install Disc) (Rev 1).zip
 Champion Jockey - G1 Jockey & Gallop Racer (Europe).zip
@@ -250,8 +251,8 @@ Club, The (USA, Europe) (En,Fr,Es,It).zip
 Cobra 11 - Crash Time (Europe) (En,De).zip
 Code_18 (Japan).zip
 College Hoops 2K6 (USA).zip
-College Hoops 2K7 (USA).zip
-Command & Conquer - Red Alert 3 (USA, Europe) (En,Es).zip
+-College Hoops 2K7 (USA).zip
+Command & Conquer - Red Alert 3 (USA, Europe) (En,Fr).zip
 Command & Conquer 3 - Kane's Wrath (USA).zip
 Command & Conquer 3 - Tiberium Wars (USA).zip
 Conan (World) (En,Fr,De,Es,It).zip
@@ -259,16 +260,16 @@ Condemned (USA, Europe) (En,Fr,De,Es,It).zip
 Condemned 2 - Bloodshot (USA, Europe) (En,Fr,Es,It).zip
 Conflict - Denied Ops (USA, Europe).zip
 Conveni 200X, The (Japan).zip
-Country Dance All Stars (USA).zip
+-Country Dance All Stars (USA).zip
 Crackdown 2 ~ Riot Act 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).zip
 Crackdown ~ Riot Act (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).zip
 Crash - Mind over Mutant (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).zip
 Crash of the Titans (USA) (En,Fr,De,Es,It,Nl).zip
 Crash Time - Autobahn Pursuit (USA) (En,Fr,De).zip
-Crash Time 4 - The Syndicate (Europe) (En,Fr,De).zip
+-Crash Time 4 - The Syndicate (Europe) (En,Fr,De).zip
 Crash Time 5 - Undercover (Europe) (En,De).zip
-Crash Time II (Europe) (En,Fr,De).zip
-Crash Time III (Europe) (En,Fr,De).zip
+-Crash Time II (Europe) (En,Fr,De).zip
+-Crash Time III (Europe) (En,Fr,De).zip
 Create (USA, Europe).zip
 Crew, The (USA) (Disc 1).zip
 Crew, The (USA) (Disc 2).zip
@@ -278,7 +279,7 @@ Crysis 2 (World) (En,Fr).zip
 Crysis 3 (USA, Europe) (En,Fr).zip
 CSI - Crime Scene Investigation - Deadly Intent (USA, Europe).zip
 CSI - Crime Scene Investigation - Fatal Conspiracy (USA, Europe).zip
-CSI - Crime Scene Investigation - Hard Evidence (USA, Europe) (En,Fr,De,Es,It).zip
+CSI - Crime Scene Investigation - Hard Evidence (USA, Europe).zip
 Culdcept Saga (Japan) (Title Update-ban).zip
 Culdcept Saga (USA).zip
 Cursed Crusade, The (USA).zip
@@ -289,7 +290,7 @@ Dance Central 2 (World).zip
 Dance Central 3 (World) (En,Zh).zip
 Dance Dance Revolution (USA).zip
 Dance Dance Revolution Universe (USA) (En,Fr,Es).zip
-Dance Dance Revolution Universe 2 (USA).zip
+-Dance Dance Revolution Universe 2 (USA).zip
 Dance Dance Revolution Universe 3 (USA, Korea) (En,Fr,Es).zip
 Dance Dance Revolution Universe 3 - Chinese Songs Special Edition (Asia) (En,Fr,Es).zip
 Dance Masters (USA).zip
@@ -304,21 +305,21 @@ Dark Souls II - Scholar of the First Sin (USA, Europe) (En,Fr,Es,Pt) (Disc 1).zi
 Dark Souls II - Scholar of the First Sin (USA, Europe) (En,Fr,Es,Pt) (Disc 2).zip
 Dark Void (USA, Europe).zip
 Darkest of Days (USA).zip
-Darkness II, The (USA, Europe).zip
+Darkness II, The (USA).zip
 Darkness, The (USA, Europe) (En,Fr,De,Es,It).zip
-Darksiders (USA, Europe) (En,Ja,Fr,De,Es,It,Ru).zip
-Darksiders - Shinpan no Toki (Japan).zip
+Darksiders (USA) (En,Fr,Es).zip
+-Darksiders - Shinpan no Toki (Japan).zip
 Darksiders II (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru).zip
 DarkStar One - Broken Alliance (USA, Europe) (En,Fr,De).zip
 de Blob 2 (USA, Europe) (En,Fr,De,Es,It).zip
 Dead Island - Game of the Year Edition (USA, Europe).zip
-Dead Island - Riptide (USA, Europe) (En,Fr,De,Es,It,Pl).zip
+Dead Island - Riptide (USA, Europe).zip
 Dead or Alive 4 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko) (Rev 1).zip
 Dead or Alive 5 (USA).zip
 Dead or Alive Xtreme 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl).zip
 Dead Rising (USA) (Rev 1).zip
 Dead Rising 2 (World) (En,Ja,Fr,Es,It,Ko).zip
-Dead Rising 2 - Off the Record (World) (En,Ja,Fr,Es,It,Ko).zip
+Dead Rising 2 - Off the Record (USA, Europe) (En,Ja,Fr,Es,It,Ko).zip
 Dead Space (USA, Asia) (En,Fr,Es).zip
 Dead Space 2 (USA, Asia) (En,Fr,Es) (Disc 1) (Rev 1).zip
 Dead Space 2 (USA, Asia) (En,Fr,Es) (Disc 2) (Rev 1).zip
@@ -330,12 +331,12 @@ Deadliest Catch - Alaskan Storm (USA).zip
 Deadliest Catch - Sea of Chaos (USA).zip
 Deadliest Warrior - Ancient Combat (USA).zip
 Deadly Premonition (USA).zip
-Deadpool (USA, Europe).zip
+Deadpool (USA).zip
 Deathsmiles (USA).zip
 Deathsmiles II X - Makai no Merry Christmas (Japan).zip
 Deca Sports Freedom (USA).zip
 Deepak Chopra's Leela (USA).zip
-Def Jam - Icon (USA).zip
+Def Jam - Icon (Europe).zip
 Def Jam - Rapstar (USA).zip
 Defiance (USA, Europe) (En,Fr,De).zip
 Dennou Senki - Virtual-On Force (Japan).zip
@@ -343,7 +344,7 @@ Destiny (World).zip
 Destroy All Humans! Path of the Furon (USA).zip
 Deus Ex - Human Revolution - Director's Cut (USA, Europe) (En,Fr,De,Es,It) (Disc 1).zip
 Deus Ex - Human Revolution - Director's Cut (USA, Europe) (En,Fr,De,Es,It) (Disc 2).zip
-Devil May Cry - HD Collection (USA, Europe) (En,Ja,Fr,De,Es,It).zip
+Devil May Cry - HD Collection (USA) (En,Ja,Fr,De,Es,It).zip
 Devil May Cry 4 (USA, Europe) (En,Fr,De,Es,It).zip
 Diablo III - Reaper of Souls - Ultimate Evil Edition (USA).zip
 Diario - Rebirth Moon Legend (Japan).zip
@@ -353,32 +354,32 @@ DiRT 2 (USA, Europe) (En,Fr,De,Es,It).zip
 DiRT 3 - Complete Edition (USA, Europe).zip
 DiRT Showdown (USA, Europe).zip
 Dishonored (USA) (En,Fr,Es).zip
-Dishonored - Game of the Year Edition (Europe) (Pl,Ru,Cs,Hu) (Disc 1).zip
+Dishonored - Game of the Year Edition (Poland) (Pl,Cs,Hu) (Disc 1).zip
 Dishonored - Game of the Year Edition (USA) (En,Fr,Es) (Disc 2).zip
 Disney Bolt (Europe) (En,Es,It).zip
 Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt).zip
 Disney Epic Mickey 2 - The Power of Two (USA, Europe) (En,Fr,Es,Nl,Pt).zip
 Disney Fantasia - Music Evolved (USA, Europe).zip
 Disney G-Force (USA).zip
-Disney High School Musical 3 - Senior Year Dance! (USA).zip
+Disney High School Musical 3 - Senior Year Dance! (Europe).zip
 Disney Infinity (USA) (En,Fr,Es,Pt).zip
 Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt).zip
 Disney Infinity 3.0 Edition (USA) (En,Fr,Es).zip
 Disney Phineas and Ferb - Quest for Cool Stuff (USA).zip
 Disney Pirates of the Caribbean - At World's End (USA) (En,Fr,De,Es,It,Nl).zip
-Disney Sing It (USA, Europe).zip
+Disney Sing It (Europe).zip
 Disney Sing It - High School Musical 3 - Senior Year (USA).zip
 Disney TRON - Evolution (USA, Europe) (En,Fr,De,Es,It).zip
 Disney Universe (USA) (En,Fr,De,Es,Nl,Sv,No,Da).zip
-Disney-Pixar Brave (USA, Australia) (En,Fr,Es).zip
+Disney-Pixar Brave (USA).zip
 Disney-Pixar Cars (USA) (En,Es).zip
 Disney-Pixar Cars - Mater-National Championship (USA).zip
 Disney-Pixar Cars - Race-O-Rama (USA, Europe) (En,Fr,De,Es,It).zip
-Disney-Pixar Cars 2 (USA, Europe).zip
+Disney-Pixar Cars 2 (USA).zip
 Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru).zip
 Disney-Pixar Ratatouille (USA).zip
 Disney-Pixar Toy Story 3 (USA) (En,Fr,Es).zip
-Disney-Pixar Toy Story 3 (USA) (Toy Box Special Edition).zip
+-Disney-Pixar Toy Story 3 (USA) (Toy Box Special Edition).zip
 Disney-Pixar Toy Story Mania! (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Ru).zip
 Disney-Pixar Up (USA).zip
 Disney-Pixar WALL-E (USA).zip
@@ -399,19 +400,19 @@ Dragon Age - Inquisition (World) (Disc 1).zip
 Dragon Age - Inquisition (World) (Disc 2).zip
 Dragon Age - Origins (World) (En,Es,It).zip
 Dragon Age - Origins - Awakening (USA, Europe).zip
-Dragon Age - Origins - Ultimate Edition (USA, Europe) (En,Es,It) (Disc 2) (Additional Content Packs Install Disc).zip
+Dragon Age - Origins - Ultimate Edition (USA) (Disc 2) (Additional Content Packs Install Disc).zip
 Dragon Age II (USA).zip
 Dragon Ball - Raging Blast (USA).zip
 Dragon Ball - Raging Blast 2 (USA).zip
 Dragon Ball Xenoverse (USA).zip
-Dragon Ball Z - Battle of Z (USA).zip
+Dragon Ball Z - Battle of Z (Europe).zip
 Dragon Ball Z - Budokai HD Collection (USA).zip
 Dragon Ball Z - Burst Limit (USA).zip
 Dragon Ball Z - Ultimate Tenkaichi (USA).zip
 Dragon Ball Z for Kinect (USA).zip
 Dragon's Dogma (World).zip
-Dragon's Dogma - Dark Arisen (World) (Disc 1) (Game Disc).zip
-Dragon's Dogma - Dark Arisen (World) (Disc 2) (Install Disc).zip
+Dragon's Dogma - Dark Arisen (World) (Game Disc).zip
+Dragon's Dogma - Dark Arisen (World) (Install Disc).zip
 Dream C Club (Japan).zip
 Dream C Club Zero (Japan).zip
 Dreamcast Collection (USA, Europe).zip
@@ -468,7 +469,7 @@ Enslaved - Odyssey to the West (USA, Europe) (En,Ja,Fr,De,Es,It).zip
 Entaku no Seito - Students of Round (Japan).zip
 Entaku no Seito - Students of Round (Japan) (DRPG Selection).zip
 Eragon (USA).zip
-Escape Dead Island (USA, Europe).zip
+Escape Dead Island (USA).zip
 Eschatos (Japan).zip
 Espgaluda II Black Label (Japan) (Shokai Genteiban).zip
 Eternal Sonata (USA) (En,Ja).zip
@@ -477,7 +478,7 @@ Every Party (Japan).zip
 Everyone Sing (Europe).zip
 Everyparty (Asia) (En,Zh,Ko).zip
 Evil Within, The (USA).zip
-Experience Disc Version 1.4, The (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).zip
+Experience Disc Version 1.4, The (USA).zip
 F.E.A.R. - First Encounter Assault Recon (USA, Europe) (En,Fr,Es,It).zip
 F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It).zip
 F.E.A.R. 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).zip
@@ -486,7 +487,7 @@ F1 2010 (USA, Europe) (En,Fr,De,Es,It,Ko).zip
 F1 2011 (USA, Europe).zip
 F1 2012 (USA, Europe).zip
 F1 2013 - Complete Edition (Europe).zip
-F1 2014 (USA, Europe) (En,Fr,De,Es,It).zip
+F1 2014 (USA).zip
 F1 Race Stars (USA, Europe) (En,Fr,De,Es,It,Pt,Pl).zip
 Fable - The Journey (USA) (En,Fr,Es).zip
 Fable Anniversary (USA, Europe) (En,Fr,Es,Pt).zip
@@ -495,11 +496,11 @@ Fable II (USA, Europe) (Bonus Disc).zip
 Fable II - Game of the Year Edition (USA, Europe) (En,Zh,Ko,Pl,Cs,Hu).zip
 Fable III (USA, Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).zip
 FaceBreaker (USA).zip
-Fairytale Fights (USA, Europe) (En,Fr,De,Es,It).zip
+Fairytale Fights (USA) (En,Fr,De,Es,It).zip
 Falling Skies - The Game (USA).zip
 Fallout - New Vegas (USA, Europe).zip
 Fallout - New Vegas - Ultimate Edition (USA) (Disc 2).zip
-Fallout 3 (USA, Europe).zip
+Fallout 3 (USA).zip
 Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout (USA, Europe).zip
 Fallout 3 - Game Add-On Pack - The Pitt and Operation - Anchorage (USA, Europe).zip
 Fallout 3 - Game of the Year Edition (USA) (Disc 2).zip
@@ -530,10 +531,10 @@ FIFA Soccer 10 (USA) (En,Fr,Es).zip
 FIFA Soccer 11 (USA) (En,Fr,Es).zip
 FIFA Soccer 12 (USA).zip
 FIFA Soccer 13 (USA).zip
-FIFA Street (USA, Europe) (En,Fr,De,Es,It).zip
-FIFA Street 3 (USA).zip
+FIFA Street (Europe) (En,Fr,De,Es,It).zip
+FIFA Street 3 (Europe) (En,Fr,De,Es,It).zip
 FIFA World Cup Germany 2006 (USA).zip
-Fight Night Champion (USA, Europe).zip
+Fight Night Champion (Europe).zip
 Fight Night Round 3 (USA).zip
 Fight Night Round 4 (USA, Europe) (En,Fr,De).zip
 Fighters Uncaged (USA, Europe).zip
@@ -545,18 +546,18 @@ Final Fantasy XIII (USA, Europe) (En,Fr,De,Es,It) (Disc 3).zip
 Final Fantasy XIII-2 (USA).zip
 Final Fantasy XIII-2 - Additional Content Selection (Japan).zip
 First Templar, The (USA, Europe).zip
-Fist of the North Star - Ken's Rage (USA, Europe).zip
-Fist of the North Star - Ken's Rage 2 (USA, Europe) (En,Fr,It).zip
+-Fist of the North Star - Ken's Rage (USA, Europe).zip
+Fist of the North Star - Ken's Rage 2 (USA).zip
 FlatOut - Ultimate Carnage (USA, Europe) (En,Fr,De,Es,It).zip
 Football Manager 2006 (Europe) (En,Fr,Es,It).zip
 Football Manager 2007 (Europe) (En,Fr,Es,It).zip
 Football Manager 2008 (Europe) (En,Fr,De,Es,It).zip
 Forza Horizon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru).zip
 Forza Horizon 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru).zip
-Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Bonus Disc).zip
+Forza Motorsport 2 (USA) (Bonus Disc).zip
 Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu).zip
-Forza Motorsport 3 - Ultimate Collection (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc).zip
-Forza Motorsport 3 - Ultimate Collection (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc).zip
+Forza Motorsport 3 - Ultimate Collection (USA) (Disc 1) (Play Disc).zip
+Forza Motorsport 3 - Ultimate Collection (USA) (Disc 2) (Content Install Disc).zip
 Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc).zip
 Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc).zip
 Fracture (USA, Europe) (En,Ja,Fr,De,Es,It,Ko).zip
@@ -569,10 +570,10 @@ Fuzion Frenzy 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).zip
 G.I. Joe - The Rise of Cobra (USA) (En,Fr,Es).zip
 Gal Gun (Japan).zip
 Game of Thrones (USA).zip
-Game of Thrones - A Telltale Games Series (USA, Europe).zip
+Game of Thrones - A Telltale Games Series (USA).zip
 Game Party - In Motion (USA, Europe).zip
 Gears of War (USA) (Bonus Disc).zip
-Gears of War (World) (En,Fr,De,Es,It,Zh,Ko).zip
+Gears of War (USA, Europe) (En,Fr,De,Es,It,Zh,Ko).zip
 Gears of War - Judgment (USA, Europe) (En,Fr,Es,Nl,No,Da,Fi,Zh,Ko,Pl,Ru,Cs).zip
 Gears of War 2 (USA) (En,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).zip
 Gears of War 2 (USA, Europe) (Limited Edition Bonus Disc).zip
@@ -580,7 +581,7 @@ Gears of War 3 (World) (En,Fr,Pt,Zh,Ko,Pl,Ru,Cs,Hu).zip
 Geesen Love. Plus Pengo! (Japan).zip
 Generator Rex - Agent of Providence (USA).zip
 Get Fit with Mel B - See the Difference (Europe).zip
-Ghostbusters - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl).zip
 Ginga Force (Japan).zip
 Godfather II, The (USA) (En,Fr).zip
 Godfather, The (USA).zip
@@ -588,7 +589,7 @@ Golden Axe - Beast Rider (USA, Europe) (En,Fr,Es,It).zip
 Golden Compass, The (USA).zip
 GoldenEye 007 - Reloaded (USA, Europe) (En,Fr,De,Es,It).zip
 Grand Slam Tennis 2 (USA, Europe) (En,Fr).zip
-Grand Theft Auto - Episodes from Liberty City (World) (En,Fr,De,Es,It).zip
+Grand Theft Auto - Episodes from Liberty City (USA, Europe) (En,Fr,De,Es,It).zip
 Grand Theft Auto - San Andreas (USA) (En,Fr,De,Es,It).zip
 Grand Theft Auto IV (USA) (En,Fr,De,Es,It).zip
 Grand Theft Auto V (World) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1) (Install).zip
@@ -603,15 +604,15 @@ Grid 2 (USA, Europe) (En,Fr,Es,Pt).zip
 Grid Autosport (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).zip
 Guilty Gear 2 - Overture (USA).zip
 Guitar Hero - Aerosmith (USA, Europe).zip
-Guitar Hero - Metallica (USA, Europe) (En,Fr,De,Es,It).zip
-Guitar Hero - Smash Hits (USA, Europe) (En,Fr,De,Es,It).zip
-Guitar Hero - Van Halen (USA) (En,Fr,De,Es,It).zip
+Guitar Hero - Metallica (Europe) (En,Fr,De,Es,It).zip
+-Guitar Hero - Smash Hits (USA, Europe) (En,Fr,De,Es,It).zip
+Guitar Hero - Van Halen (USA).zip
 Guitar Hero - Warriors of Rock (USA, Europe) (En,Fr,De,Es,It).zip
 Guitar Hero 5 (USA, Europe) (En,Fr,De,Es,It).zip
 Guitar Hero II (USA).zip
 Guitar Hero III - Legends of Rock (World) (En,Fr,De,Es,It).zip
-Guitar Hero Live (USA, Europe) (En,Fr,De,Es,It) (Disc 1) (Game Disc).zip
-Guitar Hero Live (USA, Europe) (En,Fr,De,Es,It) (Disc 2) (Install Disc).zip
+Guitar Hero Live (Europe) (Disc 1) (Game Disc).zip
+Guitar Hero Live (Europe) (Disc 2) (Install Disc).zip
 Guitar Hero World Tour (USA, Europe) (En,Fr,De,Es,It).zip
 Gun (USA) (En,Fr,Es,It).zip
 Gunstringer, The (USA, Europe).zip
@@ -620,19 +621,18 @@ Halo - Combat Evolved Anniversary (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).zip
 Halo - Reach (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).zip
 Halo 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).zip
 Halo 3 - Essentials (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1).zip
-Halo 3 - ODST (Spain) (Disc 1).zip
 Halo 3 - ODST (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1) (Campaign).zip
 Halo 3 - ODST (USA, Brazil) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 2) (Multiplayer).zip
 Halo 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh,Ko,Pl,Ru) (Disc 1).zip
 Halo 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh,Ko,Pl,Ru) (Disc 2).zip
 Halo Wars (USA).zip
 Handball 16 (Europe).zip
-Hannah Montana - The Movie (USA, Europe).zip
+Hannah Montana - The Movie (Europe).zip
 Happy Feet Two (USA, Europe).zip
 Harley Pasternak's Hollywood Workout (USA).zip
 Harry Potter and the Deathly Hallows - Part 1 (USA) (En,Fr,De,Es,It).zip
 Harry Potter and the Deathly Hallows - Part 2 (USA) (En,Fr,De,Es,It).zip
-Harry Potter and the Half-Blood Prince (USA, Asia) (En,Fr,Es).zip
+Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es).zip
 Harry Potter and the Order of the Phoenix (USA).zip
 Harry Potter for Kinect (USA, Europe).zip
 Hasbro Family Game Night (USA).zip
@@ -655,25 +655,25 @@ Hole in the Wall - Deluxe Edition (USA).zip
 Homefront (USA, Europe).zip
 Hot Wheels - Beat That! (USA).zip
 Hot Wheels - World's Best Driver (USA).zip
-Hour of Victory (USA, Europe) (En,Fr,De,Es,It).zip
+Hour of Victory (USA) (En,Fr,De,Es,It).zip
 Hulk Hogan's Main Event (USA).zip
 Hunted - The Demon's Forge (USA).zip
 Hunter's Trophy 2 - Europa (Europe).zip
 Ice Age - Continental Drift - Arctic Games (USA).zip
 Ice Age - Dawn of the Dinosaurs (USA) (En,Fr,De).zip
-Idolm@ster 2, The (Japan).zip
-Idolm@ster, The (Japan).zip
-Idolm@ster, The - Live for You! (Japan).zip
+Idolmaster 2, The (Japan).zip
+Idolmaster, The (Japan).zip
+Idolmaster, The - Live for You! (Japan).zip
 IHF Handball Challenge 14 (Europe) (En,Fr,De,Es,Sv,Da).zip
 IL-2 Sturmovik - Birds of Prey (USA, Europe) (En,Fr,De,Es,It).zip
 Import Tuner Challenge (USA).zip
 Incredible Hulk, The (USA) (En,Fr).zip
-Incredible Hulk, The (USA) (GameStop).zip
+-Incredible Hulk, The (USA) (GameStop).zip
 Indianapolis 500 Evolution (USA).zip
 Infernal - Hell's Vengeance (USA, Europe) (En,Fr,De,Es,It).zip
 Infinite Undiscovery (USA) (Disc 1).zip
 Infinite Undiscovery (USA) (Disc 2).zip
-Injustice - Gods Among Us - Ultimate Edition (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).zip
+Injustice - Gods Among Us - Ultimate Edition (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).zip
 Instant Brain (Japan).zip
 International Cricket 2010 (Europe).zip
 Inversion (USA, Europe) (En,Fr,De,Es,It).zip
@@ -688,7 +688,7 @@ Jeopardy! (USA).zip
 Jillian Michaels Fitness Adventure (USA).zip
 Jimmie Johnson's Anything with an Engine (USA).zip
 John Woo Presents Stranglehold (USA) (En,Fr,De,Es,It).zip
-Jonah Lomu Rugby Challenge 2 (Europe).zip
+-Jonah Lomu Rugby Challenge 2 (Europe).zip
 Juiced 2 - Hot Import Nights (World) (En,Fr,De,Es,It).zip
 Jumper - Griffin's Story (USA, Europe).zip
 Jurassic - The Hunted (USA).zip
@@ -701,7 +701,7 @@ Just Dance - Greatest Hits (USA).zip
 Just Dance 2014 (USA).zip
 Just Dance 2015 (USA).zip
 Just Dance 2016 (USA).zip
-Just Dance 2017 (USA).zip
+Just Dance 2017 (Europe).zip
 Just Dance 2018 (USA).zip
 Just Dance 2019 (USA).zip
 Just Dance 3 (USA, Europe).zip
@@ -709,21 +709,21 @@ Just Dance 4 (USA).zip
 Just Dance Kids (Europe).zip
 Just Dance Kids 2 (USA).zip
 Just Dance Kids 2014 (USA).zip
-Kameo - Elements of Power (USA, Canada) (En,Ja,Fr,De,Es,It,Zh,Ko).zip
+Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).zip
 Kane & Lynch - Dead Men (World) (En,Fr,De,Es,It).zip
 Kane & Lynch 2 - Dog Days (USA, Europe) (En,Fr,Es,It).zip
-Karaoke Revolution (USA).zip
+-Karaoke Revolution (USA).zip
 Karaoke Revolution Glee - Volume 3 (USA).zip
-Karaoke Revolution Presents - American Idol Encore (USA).zip
+-Karaoke Revolution Presents - American Idol Encore (USA).zip
 Karaoke Revolution Presents - American Idol Encore 2 (USA).zip
 Kengo - Legend of the 9 (USA).zip
 Kengo Zero (Europe).zip
 Ketsui - Kizuna Jigoku-tachi Extra (Japan).zip
-Kick-Ass 2 (Europe).zip
+-Kick-Ass 2 (Europe).zip
 Killer Is Dead (USA).zip
 Kinect Adventures! (USA) (Rev 2).zip
 Kinect Disneyland Adventures (USA, Europe).zip
-Kinect Joy Ride (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).zip
+Kinect Joy Ride (USA, Europe).zip
 Kinect Nat Geo TV - America the Wild (USA) (Disc 1) (Volume 1).zip
 Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2).zip
 Kinect Rush - A Disney-Pixar Adventure (USA, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).zip
@@ -733,12 +733,12 @@ Kinect Sports (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 1).zip
 Kinect Sports - Season Two (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).zip
 Kinect Star Wars (USA).zip
 Kinectimals - Now with Bears! (USA, Europe).zip
-King of Fighters XII, The (World) (En,Ja,Fr,De,Es,It).zip
-King of Fighters XIII, The (World).zip
+King of Fighters XII, The (Japan, Europe) (En,Ja,Fr,De,Es,It).zip
+King of Fighters XIII, The (Japan, Europe).zip
 King's Quest - The Complete Collection (USA).zip
 Kingdom Under Fire - Circle of Doom (World) (En,Ja,Fr,De,Es,It,Zh,Ko).zip
 Kingdoms of Amalur - Reckoning (World) (En,Fr,De,Es,It).zip
-Knights Contract (USA, Asia) (En,Fr,Es).zip
+Knights Contract (USA).zip
 Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).zip
 Konami Classics Vol. 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).zip
 Kung-Fu High Impact (USA).zip
@@ -750,17 +750,17 @@ Lara Croft Tomb Raider - Anniversary (USA, Europe) (En,Fr,De,Es,It).zip
 Lara Croft Tomb Raider - Legend (USA, Europe) (En,Fr,De,Es,It).zip
 Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 1).zip
 Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 2).zip
-Left 4 Dead - Game of the Year Edition (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).zip
+Left 4 Dead - Game of the Year Edition (USA).zip
 Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).zip
 Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl).zip
 Legend of the Guardians - The Owls of Ga'Hoole (USA, Europe).zip
 Legendary (USA).zip
-LEGO Batman - The Videogame (World) (En,Fr,De,Es,It,Da).zip
+LEGO Batman - The Videogame (USA, Europe) (En,Fr,De,Es,It,Da).zip
 LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru).zip
 LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru).zip
 LEGO Dimensions (USA, Europe) (En,Fr,De,Es,Nl,Da).zip
 LEGO Harry Potter - Years 1-4 (USA) (En,Fr,De,Es,It,Da) (Rev 1).zip
-LEGO Harry Potter - Years 5-7 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da).zip
+LEGO Harry Potter - Years 5-7 (USA) (En,Fr,De,Es,It,Nl,Pt,Da).zip
 LEGO Indiana Jones - The Original Adventures (USA, Europe) (En,Fr,De,Es,It,Da) (Rev 1).zip
 LEGO Indiana Jones 2 - The Adventure Continues (USA, Europe) (En,Fr,De,Es,It,Da).zip
 LEGO Jurassic World (USA) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru) (Rev 1).zip
@@ -778,14 +778,14 @@ LEGO The Lord of the Rings (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru).zip
 Leisure Suit Larry - Box Office Bust (USA, Europe) (En,Fr,De,Es,It).zip
 Let's Cheer (USA).zip
 Let's Dance (USA).zip
-Let's Dance with Mel B (Europe) (En,Fr,De,Es,It).zip
+Let's Dance with Mel B (Europe).zip
 Lightning Returns - Final Fantasy XIII (USA).zip
-Lips (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Zh,Pl,Ru).zip
+Lips (Europe) (En,Fr,De,Es,It,Pl,Ru).zip
 Lips - Canta en Espanol (Spain).zip
 Lips - Deutsche Partyknaller (Germany).zip
 Lips - I Love the 80s (Europe).zip
 Lips - Number One Hits (Europe).zip
-Lips - Party Classics (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Zh,Pl,Ru).zip
+Lips - Party Classics (Europe).zip
 Little League World Series Baseball 2010 (USA).zip
 LMA Manager 2007 (Europe) (En,Fr,De,Es,It).zip
 Lollipop Chainsaw (Japan) (Premium Edition).zip
@@ -807,31 +807,31 @@ Love Football - Aoki Senshi-tachi no Kiseki (Japan).zip
 Love Tore - Bitter (Japan).zip
 Love Tore - Mint (Japan).zip
 Love Tore - Sweet (Japan).zip
-Lucha Libre AAA - Heroes del Ring (USA).zip
-Madden NFL 06 (USA).zip
+Lucha Libre AAA - Heroes del Ring (USA) (Beta) (2010-07-28).zip
+Madden NFL 06 (Europe).zip
 Madden NFL 07 (USA).zip
 Madden NFL 08 (USA).zip
-Madden NFL 09 (USA) (20th Anniversary Collector's Edition).zip
+-Madden NFL 09 (USA) (20th Anniversary Collector's Edition).zip
 Madden NFL 09 (World).zip
 Madden NFL 10 (USA, Europe).zip
 Madden NFL 11 (World).zip
 Madden NFL 12 (USA, Europe).zip
-Madden NFL 13 (USA, Europe).zip
+Madden NFL 13 (USA).zip
 Madden NFL 15 (USA).zip
 Madden NFL 16 (USA, Europe).zip
 Madden NFL 17 (USA, Europe).zip
-Madden NFL 25 (USA, Europe).zip
+Madden NFL 25 (USA).zip
 Mafia II (USA, Europe) (Add-On Content Disc).zip
 Mafia II (USA, Europe) (En,Fr,Es).zip
-MagnaCarta 2 (USA) (En,Fr) (Disc 1).zip
-MagnaCarta 2 (USA) (En,Fr) (Disc 2).zip
+Magnacarta 2 (USA) (En,Fr) (Disc 1).zip
+Magnacarta 2 (USA) (En,Fr) (Disc 2).zip
 Mahjong Dream C Club (Japan).zip
-Majin and the Forsaken Kingdom (USA) (En,Fr,Es,Ko).zip
+Majin and the Forsaken Kingdom (USA).zip
 MajiTen - Maji de Tenshi o Tsukutte Mita (Japan).zip
 Major League Baseball 2K10 (USA).zip
 Major League Baseball 2K11 (USA).zip
 Major League Baseball 2K12 (USA).zip
-Major League Baseball 2K13 (USA).zip
+-Major League Baseball 2K13 (USA).zip
 Major League Baseball 2K6 (USA) (Rev 1).zip
 Major League Baseball 2K7 (USA).zip
 Major League Baseball 2K8 (USA).zip
@@ -845,12 +845,12 @@ Marvel Super Hero Squad - The Infinity Gauntlet (USA, Europe).zip
 Marvel The Avengers - Battle for Earth (USA, Europe).zip
 Marvel vs. Capcom 3 - Fate of Two Worlds (World) (En,Ja,Fr,De,Es,It).zip
 Mass Effect (USA) (En,Es) (Rev 1).zip
-Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pt,Pl) (Bonus Content Disc).zip
+Mass Effect (USA) (En,Fr,De,Es,It,Pt,Pl) (Bonus Content Disc).zip
 Mass Effect 2 (USA, Europe) (En,Es) (Disc 1).zip
 Mass Effect 2 (USA, Europe) (En,Es) (Disc 2).zip
 Mass Effect 3 (World) (En,Ja,Fr,De,Es,It,Pl,Ru) (Disc 1).zip
 Mass Effect 3 (World) (En,Ja,Fr,De,Es,It,Pl,Ru) (Disc 2).zip
-Matching Maker 4 (Japan).zip
+-Matching Maker 4 (Japan).zip
 Max Payne 3 (USA, Europe) (En,Fr,De,Es,It,Ru) (Disc 1) (Single Player Disc 1 and Multiplayer).zip
 Max Payne 3 (USA, Europe) (En,Fr,De,Es,It,Ru) (Disc 2) (Single Player Disc 2).zip
 Mayhem (USA).zip
@@ -861,7 +861,7 @@ Medal of Honor - Warfighter (USA, Europe) (En,Fr,Es) (Disc 2).zip
 Meikyuu Cross Blood - Reloaded (Japan).zip
 Memories Off - Yubikiri no Kioku (Japan).zip
 Memories Off 6 - Next Relation (Japan).zip
-Memories Off 6 - T-Wave (Japan).zip
+Memories Off 6 - T-wave (Japan).zip
 Mercenaries 2 - World in Flames (USA) (En,Fr).zip
 Metal Gear Rising - Revengeance (USA, Europe) (En,Ja,Fr,De,Es,It,Pt).zip
 Metal Gear Solid - HD Collection (USA) (En,Fr,Es) (Disc 1).zip
@@ -877,20 +877,20 @@ Michael Phelps - Push the Limit (USA, Europe).zip
 Middle-Earth - Shadow of Mordor (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 1) (Rev 1).zip
 Middle-Earth - Shadow of Mordor (USA) (En,Fr,De,Es,It,Pl,Ru) (Disc 2) (Rev 1).zip
 Midnight Club - Los Angeles - Complete Edition (USA, Europe).zip
-Midway Arcade Origins (USA, Europe).zip
+Midway Arcade Origins (USA).zip
 Millennium European Paintball Series, The - Championship Paintball 2009 (Europe).zip
-Mindjack (World) (En,Ja,Fr,De,Es,It).zip
+Mindjack (USA, Europe) (En,Ja,Fr,De,Es,It).zip
 Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA).zip
 Minecraft - Story Mode - Season Two - The Telltale Series (USA, Europe).zip
-Minecraft - Xbox 360 Edition (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).zip
+Minecraft - Xbox 360 Edition (World).zip
 Mini Ninjas (USA, Europe).zip
 Minute to Win It (USA).zip
 Mirror's Edge (USA) (En,Fr,Es).zip
-MLB Front Office Manager (USA).zip
+-MLB Front Office Manager (USA).zip
 Mobile Suit Gundam - Operation - Troy (Japan).zip
 Moe Moe 2-Ji Daisenryaku Ultra Deluxe (Japan).zip
 Momotarou Dentetsu 16 Gold (Japan).zip
-Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It).zip
+Monkey Island - Special Edition Collection (Europe).zip
 Monopoly (USA, Europe).zip
 Monopoly Streets (USA, Europe).zip
 Monster High - New Ghoul in School (USA).zip
@@ -901,7 +901,7 @@ Monster Jam - Path of Destruction (USA).zip
 Monster Madness - Battle for Suburbia (USA) (En,Fr,De,Es,It).zip
 MorphX (USA, Europe).zip
 Mortal Kombat (USA, Europe) (En,Fr,De,Es,It,Pt).zip
-Mortal Kombat - Komplete Edition (USA, Europe) (En,Fr,De,Es,It,Pt).zip
+Mortal Kombat - Komplete Edition (Europe) (En,Fr,De,Es,It,Pt).zip
 Mortal Kombat vs. DC Universe (World) (En,Fr,De,Es,It).zip
 Motion Explosion (USA, Europe).zip
 Motionsports - Play for Real (USA, Europe).zip
@@ -935,50 +935,50 @@ My SelfDefence Coach (USA, Europe).zip
 MySims SkyHeroes (USA).zip
 N3 - Ninety-Nine Nights (USA, Europe) (En,Fr,De,Es,It).zip
 N3II - Ninety-Nine Nights (USA) (En,Ja,Fr,De,Es,It,Ko).zip
-Nail'd (USA, Europe).zip
+Nail'd (Europe).zip
 Namco Museum - Virtual Arcade (USA) (En,Fr) (Rev 1).zip
 Naruto - Rise of a Ninja (USA, Europe).zip
-Naruto - The Broken Bond (USA, Europe) (En,Fr,De,Es,It).zip
+Naruto - The Broken Bond (USA, Europe).zip
 Naruto Shippuden - Ultimate Ninja Storm 2 (USA).zip
 Naruto Shippuden - Ultimate Ninja Storm 3 (USA).zip
-Naruto Shippuden - Ultimate Ninja Storm 3 Full Burst (USA).zip
+Naruto Shippuden - Ultimate Ninja Storm 3 Full Burst (Europe).zip
 Naruto Shippuden - Ultimate Ninja Storm Generations (USA).zip
 Naruto Shippuden - Ultimate Ninja Storm Revolution (USA).zip
 NASCAR '14 (USA).zip
-NASCAR '15 (USA).zip
+-NASCAR '15 (USA).zip
 NASCAR 08 (USA).zip
 NASCAR 09 (USA).zip
 NASCAR 2011 - The Game (USA).zip
-NASCAR the Game - Inside Line (USA).zip
-NASCAR Unleashed (USA).zip
+-NASCAR the Game - Inside Line (USA).zip
+-NASCAR Unleashed (USA).zip
 Nat Geo Quiz! Wild Life (Europe).zip
 National Geographic - Challenge! (USA).zip
 Naughty Bear - Gold Edition (USA) (En,Fr,De,Es,It).zip
 Naval Assault - The Killing Tide (USA, Europe) (En,Fr,De,Es,It).zip
-NBA 2K10 (USA, Europe) (En,Fr,De,Es,It).zip
+NBA 2K10 (USA) (En,Fr,De,Es,It).zip
 NBA 2K11 (World) (En,Ja,Fr,De,Es,It).zip
-NBA 2K12 (USA, Europe).zip
+NBA 2K12 (Europe).zip
 NBA 2K13 (USA, Europe).zip
 NBA 2K14 (USA).zip
 NBA 2K15 (USA).zip
 NBA 2K16 (USA).zip
 NBA 2K17 (USA).zip
 NBA 2K18 (USA).zip
-NBA 2K6 (USA).zip
+NBA 2K6 (Europe) (En,Fr,De,Es,It).zip
 NBA 2K7 (USA).zip
 NBA 2K8 (USA).zip
 NBA 2K9 (USA).zip
 NBA Baller Beats (USA).zip
 NBA Ballers - Chosen One (USA, Europe).zip
-NBA Elite 11 (USA) (En,Fr,Es).zip
+-NBA Elite 11 (USA) (En,Fr,Es).zip
 NBA Jam (USA, Europe).zip
-NBA Live 06 (USA).zip
-NBA Live 07 (USA).zip
+NBA Live 06 (Europe) (En,Fr).zip
+NBA Live 07 (Europe) (En,Fr,De,Es,It).zip
 NBA Live 08 (USA).zip
 NBA Live 09 (USA).zip
-NBA Live 10 (USA) (En,Fr).zip
+NBA Live 10 (Europe).zip
 NBA Street Homecourt (USA).zip
-NCAA Basketball 09 (USA).zip
+-NCAA Basketball 09 (USA).zip
 NCAA Football 07 (USA).zip
 NCAA Football 08 (USA).zip
 NCAA Football 09 (USA).zip
@@ -1010,16 +1010,16 @@ NHL 12 (USA).zip
 NHL 13 (USA, Europe).zip
 NHL 14 (USA, Europe).zip
 NHL 15 (USA).zip
-NHL 2K10 (USA, Europe).zip
-NHL 2K6 (USA).zip
+NHL 2K10 (Europe).zip
+NHL 2K6 (Europe).zip
 NHL 2K7 (USA).zip
 NHL 2K8 (USA).zip
 NHL 2K9 (USA, Europe) (En,Fr,De,Es,It).zip
 NHL Legacy Edition (USA, Europe) (En,Fr,De,Ru).zip
 Nickelodeon Avatar - The Last Airbender - The Burning Earth (USA).zip
 Nickelodeon Dance (USA).zip
-Nickelodeon Dance 2 (USA).zip
-Nickelodeon Nicktoons MLB (USA).zip
+-Nickelodeon Dance 2 (USA).zip
+-Nickelodeon Nicktoons MLB (USA).zip
 Nickelodeon SpongeBob HeroPants (USA).zip
 Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA).zip
 Nickelodeon SpongeBob SquarePants - SpongeBob's Truth or Square (Europe).zip
@@ -1031,7 +1031,7 @@ Nickelodeon Victorious - Time to Shine (USA, Europe).zip
 Nier (USA, Europe) (En,Ja,Fr,De).zip
 Night at the Museum - Battle of the Smithsonian - The Video Game (USA).zip
 Nike+ Kinect Training (USA, Asia) (En,Zh).zip
-Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).zip
+Ninja Blade (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).zip
 Ninja Gaiden 3 - Razor's Edge (USA).zip
 Ninja Gaiden II (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).zip
 No Fate! Only the Power of Will (Japan).zip
@@ -1067,18 +1067,18 @@ Perfect Dark Zero (USA) (En,Fr,Es) (Rev 1).zip
 Perfect Dark Zero (World) (Bonus DVD).zip
 Persona 4 Arena (USA).zip
 Persona 4 Arena Ultimax (USA).zip
-PES 2008 - Pro Evolution Soccer (USA) (En,Fr,Es).zip
-PES 2009 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).zip
+PES 2008 - Pro Evolution Soccer (USA).zip
+PES 2009 - Pro Evolution Soccer (USA).zip
 PES 2010 - Pro Evolution Soccer (USA) (En,Es).zip
-PES 2011 - Pro Evolution Soccer (USA) (En,Es).zip
-PES 2012 - Pro Evolution Soccer (USA) (En,Es).zip
-PES 2013 - Pro Evolution Soccer (USA) (En,Es).zip
-PES 2014 - Pro Evolution Soccer (USA) (En,Es).zip
-PES 2015 - Pro Evolution Soccer (USA) (En,Es).zip
-PES 2016 - Pro Evolution Soccer (USA) (En,Es).zip
+PES 2011 - Pro Evolution Soccer (USA).zip
+PES 2012 - Pro Evolution Soccer (USA).zip
+PES 2013 - Pro Evolution Soccer (USA) (Rev 1).zip
+PES 2014 - Pro Evolution Soccer (USA).zip
+PES 2015 - Pro Evolution Soccer (USA).zip
+PES 2016 - Pro Evolution Soccer (USA).zip
 PES 2017 - Pro Evolution Soccer (Europe) (En,Fr,De,It,Nl,Ru,Tr).zip
-PES 2018 - Pro Evolution Soccer (USA) (En,Es).zip
-PES 6 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It).zip
+PES 2018 - Pro Evolution Soccer (USA).zip
+Pro Evolution Soccer 6 (Europe) (En,Fr,De,Es,It).zip
 Peter Jackson's King Kong - The Official Game of the Movie (USA, Europe) (En,Nl,Sv,No,Da,Fi).zip
 Phantasy Star Universe (USA, Europe) (En,Fr,De).zip
 Phantom - Phantom of Inferno (Japan).zip
@@ -1098,7 +1098,7 @@ Port Royale 3 - Pirates & Merchants (USA, Europe) (En,Fr,De,Es,It).zip
 Portal 2 (World) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).zip
 Power Gig - Rise of the SixString (USA).zip
 Power Rangers - Super Samurai (USA).zip
-PowerUp Heroes (USA, Asia).zip
+PowerUp Heroes (USA).zip
 Prey (USA, Europe) (En,Fr,De,Es,It).zip
 Price Is Right, The - Decades (USA).zip
 Prince of Persia (USA, Europe) (En,Fr,De,Es,It,Nl).zip
@@ -1107,11 +1107,11 @@ Prison Break - The Conspiracy (USA, Europe) (En,Fr,De,Es,It).zip
 Pro Yakyuu Spirits 3 (Japan).zip
 Project Gotham Racing 3 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Rev 1).zip
 Project Gotham Racing 4 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).zip
-Project Sylpheed (Japan).zip
+Project Sylpheed (World) (Beta) (2007-05-07).zip
 Project Sylpheed - Arc of Deception (USA, Europe) (En,Ja).zip
 Prototype (World) (En,Fr,Es,It).zip
 Prototype 2 (USA, Europe).zip
-Pure (World) (En,Fr,De,Es,It,Nl).zip
+Pure (USA, Europe) (En,Fr,De,Es,It,Nl).zip
 Pure Futbol - Authentic Soccer ~ Pure Football (USA, Europe) (En,Fr,De,Es,It,Nl).zip
 Quake 4 (USA, Europe) (Bonus Disc).zip
 Quake 4 (USA, Europe) (En,Fr,Es,It).zip
@@ -1157,7 +1157,7 @@ Ridge Racer 6 (USA) (En,Ja,Fr,De,Es,It).zip
 Ridge Racer Unbounded (USA, Europe).zip
 Rio (USA, Europe).zip
 Rise of Nightmares (USA).zip
-Rise of the Argonauts (USA, Europe) (En,Fr,De,Es,It).zip
+Rise of the Argonauts (USA) (En,Fr,De,Es,It).zip
 Rise of the Tomb Raider (USA, Europe) (En,Fr,Es,Nl).zip
 Risen (USA) (En,Fr,De,Es,It).zip
 Risen 2 - Dark Waters (USA, Europe) (En,Fr,De,Es,It,Pl).zip
@@ -1166,30 +1166,30 @@ Robert Ludlum's The Bourne Conspiracy (USA, Europe) (En,Fr,De,Es,It).zip
 Robotics;Notes (Japan).zip
 Rock Band (USA).zip
 Rock Band - Country Track Pack (USA).zip
-Rock Band - Country Track Pack 2 (USA).zip
+-Rock Band - Country Track Pack 2 (USA).zip
 Rock Band - Metal Track Pack (USA).zip
 Rock Band - Track Pack Volume 2 (USA).zip
 Rock Band 2 (USA).zip
 Rock Band 3 (USA, Europe) (En,Fr,De,Es,It).zip
 Rock Band Track Pack - Classic Rock (USA).zip
-Rock of the Dead (USA).zip
+-Rock of the Dead (USA).zip
 Rock Revolution (USA).zip
-Rocksmith (USA) (En,Fr,Es) (Best Buy).zip
+-Rocksmith (USA) (En,Fr,Es) (Best Buy).zip
 Rocksmith - All-New 2014 Edition (USA).zip
 Rockstar Games Presents Table Tennis (USA, Europe) (En,Fr,De,Es,It).zip
 Rogue Warrior (USA) (En,Fr,De,Es,It).zip
 Root Double - Before Crime - After Days (Japan).zip
 Rugby 15 (Europe).zip
 Rugby Challenge (USA, Europe).zip
-Rugby Challenge 3 (Australia) (En,Fr,Es,It).zip
+-Rugby Challenge 3 (Australia) (En,Fr,Es,It).zip
 Rugby League Live (Europe).zip
 Rugby League Live 2 (Europe).zip
-Rugby League Live 2 - World Cup Edition (Australia).zip
+-Rugby League Live 2 - World Cup Edition (Australia).zip
 Rugby League Live 3 (Europe).zip
 Rugby World Cup 2011 (USA, Europe).zip
 Rugby World Cup 2015 (Europe).zip
 Rumble Roses XX (USA) (En,Ja).zip
-Saboteur, The (USA, Europe) (En,Fr).zip
+Saboteur, The (USA) (En,Fr).zip
 Sacred 2 - Fallen Angel (USA, Europe) (En,Fr,De,Es,It,Pl).zip
 Sacred 3 (USA, Europe).zip
 Saints Row (World) (En,Fr,De,Es,It).zip
@@ -1205,19 +1205,19 @@ Samurai Shodown Sen (USA).zip
 Samurai Warriors 2 (USA, Europe).zip
 Samurai Warriors 2 - Empires (USA).zip
 Saw (USA).zip
-Saw II - Flesh & Blood (USA) (En,Fr,De,Es,It).zip
+Saw II - Flesh & Blood (USA, Europe) (En,Fr,De,Es,It).zip
 SBK - Superbike World Championship (USA).zip
 SBK 08 - Superbike World Championship (Europe).zip
 SBK 09 - Superbike World Championship (Europe).zip
 SBK 2011 - FIM Superbike World Championship (Europe) (En,Fr,De,Es,It).zip
 SBK Generations (Europe).zip
 SBK X - Superbike World Championship (USA).zip
-Scene It Box Office Smash! (USA, Europe) (En,Fr,Es).zip
+Scene It Box Office Smash! (USA) (En,Fr,Es).zip
 Scene It Bright Lights! Big Screen! (USA).zip
 Scene It Lights, Camera, Action (USA).zip
 Score International Baja 1000 - World Championship Off Road Racing (USA, Europe).zip
 ScreamRide (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).zip
-Secret Service (USA, Europe).zip
+Secret Service (USA).zip
 Section 8 (USA, Europe) (En,Fr,Es).zip
 Sega Rally Revo (USA, Europe) (En,Fr,De,Es,It).zip
 Sega Superstars Tennis (World) (En,Fr,De,Es,It).zip
@@ -1227,11 +1227,11 @@ Senkou no Ronde Duo (Japan).zip
 Serious Sam Collection, The (USA).zip
 Sesame Street - Once Upon a Monster (USA, Europe) (En,Fr,Es).zip
 Shadowrun (USA) (En,Fr,Es).zip
-Shadows of the Damned (USA, Europe) (En,Fr,De,Es,It).zip
+Shadows of the Damned (USA, Europe).zip
 Sharin no Kuni, Himawari no Shoujo (Japan).zip
 Shaun White Skateboarding (USA).zip
 Shaun White Snowboarding (USA).zip
-ShellShock 2 - Blood Trails (USA, Europe) (En,Fr,De,Es,It).zip
+ShellShock 2 - Blood Trails (USA) (En,Fr,De,Es,It).zip
 Sherlock Holmes - Crimes & Punishments (USA).zip
 Sherlock Holmes Versus Jack the Ripper (USA) (En,Fr,Es).zip
 Shiei No Sona-nyl Refrain - What a Beautiful Memories (Japan).zip
@@ -1246,7 +1246,7 @@ Silent Hill - Downpour (USA, Europe) (En,Fr,De,Es,It,Pt).zip
 Silent Hill - HD Collection (USA, Europe).zip
 Silent Hill - Homecoming (USA) (En,Fr,De,Es,It).zip
 Simpsons Game, The (USA).zip
-Sims 3, The (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+Sims 3, The (USA, Europe).zip
 Sims 3, The - Pets (World).zip
 Singularity (USA, Europe) (En,Fr,Es,It).zip
 Skate 2 (USA).zip
@@ -1260,23 +1260,23 @@ Skylanders - SuperChargers (USA).zip
 Skylanders - Swap Force (USA).zip
 Skylanders - Trap Team (USA).zip
 Sleeping Dogs (USA) (En,Fr,Es).zip
-Smash Court Tennis 3 (USA, Europe).zip
+Smash Court Tennis 3 (Europe).zip
 Smurfs 2, The (USA).zip
-Sniper - Ghost Warrior (USA, Europe) (En,Fr,De,Es,It,Pl,Ru).zip
-Sniper - Ghost Warrior 2 (USA, Europe) (En,Fr,De,Es,It,Pl,Ru).zip
+Sniper - Ghost Warrior (USA) (En,Fr,De,Es,It).zip
+Sniper - Ghost Warrior 2 (USA, Europe).zip
 Sniper Elite III - Ultimate Edition (USA, Europe).zip
 Sniper Elite V2 - Silver Star Edition (USA, Europe).zip
 Snipers - Invisible, Silent, Deadly (Europe).zip
 Snoopy's Grand Adventure (USA).zip
 Soldier of Fortune - Payback (USA).zip
-Sonic & All-Stars Racing Transformed (World) (En,Fr,De,Es,It).zip
+Sonic & All-Stars Racing Transformed (USA, Europe).zip
 Sonic & Sega All-Stars Racing with Banjo-Kazooie (USA, Europe) (En,Fr,Es).zip
 Sonic Free Riders (USA, Europe) (En,Ja,Fr,De,Es,It).zip
 Sonic Generations (World).zip
 Sonic the Hedgehog (USA, Europe) (En,Ja,Fr,De,Es,It).zip
 Sonic Unleashed (USA) (En,Ja,Fr,De,Es,It).zip
 Sonic's Ultimate Genesis Collection (USA).zip
-Soulcalibur IV (World) (En,Ja,Fr,De,Es,It).zip
+Soulcalibur IV (USA, Europe) (En,Ja,Fr,De,Es,It).zip
 Soulcalibur V (World).zip
 South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt).zip
 Space Chimps (USA).zip
@@ -1288,7 +1288,7 @@ Spider-Man - Shattered Dimensions (USA) (En,Fr,De,Es,It).zip
 Spider-Man - Web of Shadows (USA) (En,Fr).zip
 Spider-Man 3 (USA, Europe).zip
 Spiderwick Chronicles, The (USA).zip
-Splatterhouse (USA, Europe) (En,Fr,De,Es,It).zip
+Splatterhouse (USA, Europe) (En,Fr,Es).zip
 Split-Second (USA, Europe) (En,Fr,De,Es,It).zip
 Sports Island Freedom (Europe).zip
 SSX (USA) (En,Fr,De,Es,It).zip
@@ -1308,7 +1308,7 @@ Steins;Gate - Senkei Kousoku no Phenogram (Japan).zip
 Stoked - Big Air Edition (USA).zip
 Stormrise (USA, Europe) (En,Fr,Es,It).zip
 Street Fighter IV (World) (En,Ja,Fr,De,Es,It,Ko).zip
-Street Fighter IV - The Ties That Bind (USA) (En,Fr,De,Es,It) (Bonus Disc) (Xbox 360 Game Bundle).zip
+-Street Fighter IV - The Ties That Bind (USA) (En,Fr,De,Es,It) (Bonus Disc) (Xbox 360 Game Bundle).zip
 Street Fighter X Tekken (World).zip
 Strike Witches - Hakugin no Tsubasa (Japan).zip
 Stuntman - Ignition (USA, Europe) (En,Fr,De,Es,It).zip
@@ -1318,12 +1318,12 @@ Summer Challenge - Athletics Tournament (Europe).zip
 Summer Stars 2012 (Europe).zip
 Super Robot Taisen XO (Japan).zip
 Super Street Fighter IV (World) (En,Ja,Fr,De,Es,It,Ko).zip
-Super Street Fighter IV - Arcade Edition (World).zip
+Super Street Fighter IV - Arcade Edition (Japan, Europe).zip
 Superman Returns (USA).zip
 SuperStar Karaoke (Korea).zip
 Superstars V8 - Next Challenge (Europe).zip
 Superstars V8 Racing (Europe).zip
-Supremacy MMA (USA, Europe).zip
+Supremacy MMA (Europe).zip
 Supreme Commander (USA).zip
 Supreme Commander 2 (USA, Europe) (En,Fr,De,Es,It).zip
 Surf's Up (USA).zip
@@ -1337,7 +1337,7 @@ Tekken Tag Tournament 2 (USA, Europe).zip
 Tenchu Z (USA, Europe) (En,Fr,De,Es,It).zip
 Tengai Makyou - Ziria - Haruka naru Jipang (Japan).zip
 Terminator Salvation (USA, Europe) (En,Fr,De,Es,It,Pt).zip
-Terraria (USA, Europe) (En,Fr,De,Es,It).zip
+Terraria (USA, Canada) (En,Fr,De,Es,It).zip
 Test Drive - Ferrari Racing Legends (USA, Europe) (En,Fr,De,Es,It).zip
 Test Drive Unlimited (USA) (En,Fr,De,Es,It).zip
 Test Drive Unlimited 2 (USA, Europe) (En,Fr,De,Es,It).zip
@@ -1349,37 +1349,37 @@ Thor - God of Thunder (USA, Europe) (En,Fr,De,Es,It).zip
 Thrillville - Off the Rails (USA).zip
 Tiger Woods PGA Tour 06 (USA).zip
 Tiger Woods PGA Tour 07 (USA).zip
-Tiger Woods PGA Tour 08 (USA).zip
+Tiger Woods PGA Tour 08 (Europe).zip
 Tiger Woods PGA Tour 09 (World).zip
-Tiger Woods PGA Tour 10 (USA, Europe).zip
+Tiger Woods PGA Tour 10 (Europe).zip
 Tiger Woods PGA Tour 11 (USA).zip
-Tiger Woods PGA Tour 12 (World).zip
-Tiger Woods PGA Tour 13 (USA, Europe) (Masters Collector's Edition).zip
+Tiger Woods PGA Tour 12 (Europe, Asia).zip
+Tiger Woods PGA Tour 13 (Europe) (Masters Collector's Edition).zip
 Tiger Woods PGA Tour 14 (Europe).zip
-Tiger Woods PGA Tour 14 - Masters Historic Edition (USA).zip
+-Tiger Woods PGA Tour 14 - Masters Historic Edition (USA).zip
 Time Leap (Japan).zip
 TimeShift (USA, Europe) (En,Fr,Es,It).zip
 Titanfall (USA, Europe) (En,Ja,Fr,De,Es,It,Ru).zip
 TMNT (USA) (En,Fr,De,Es,It).zip
 TNA Impact! Total Nonstop Action Wrestling (USA, Europe).zip
-Tohoku Daigaku Kawashima Ryuta Kyouju Kanshuu Shidou - Karada de Kotaeru Atarashii Noutore (Japan).zip
+-Tohoku Daigaku Kawashima Ryuta Kyouju Kanshuu Shidou - Karada de Kotaeru Atarashii Noutore (Japan).zip
 Tom Clancy's EndWar (World) (En,Fr,De,Es,It).zip
 Tom Clancy's Ghost Recon - Advanced Warfighter (USA, Europe) (En,Fr,De,Es,It).zip
 Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Europe) (Legacy Edition Bonus Disc).zip
 Tom Clancy's Ghost Recon - Advanced Warfighter 2 (USA, Europe) (En,Fr,De,Es,It).zip
 Tom Clancy's Ghost Recon - Future Soldier (USA, Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da).zip
 Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It).zip
-Tom Clancy's H.A.W.X. 2 (USA, Europe).zip
+Tom Clancy's H.A.W.X. 2 (USA).zip
 Tom Clancy's Rainbow Six - Vegas (USA, Europe) (En,Fr,De,Es,It).zip
 Tom Clancy's Rainbow Six - Vegas 2 (USA, Europe) (En,Fr,De,Es,It).zip
-Tom Clancy's Splinter Cell - Blacklist (USA, Europe) (En,Fr,Es,Nl,Sv,No,Da) (Disc 1) (Campaign Part 1 & Multiplayer).zip
-Tom Clancy's Splinter Cell - Blacklist (USA, Europe) (En,Fr,Es,Nl,Sv,No,Da) (Disc 2) (Campaign Part 2 & HD Texture Pack).zip
+Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Nl,Sv,No,Da) (Disc 1) (Campaign Part 1 & Multiplayer).zip
+Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Nl,Sv,No,Da) (Disc 2) (Campaign Part 2 & HD Texture Pack).zip
 Tom Clancy's Splinter Cell - Conviction (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).zip
 Tom Clancy's Splinter Cell - Double Agent (USA, Europe) (En,Fr,De,Es,It).zip
 Tomb Raider (USA, Europe) (En,Es,Nl,Pt).zip
 Tomb Raider - Underworld (USA, Europe) (En,Fr,De,Es,It,Nl).zip
 Tomoyo After - It's a Wonderful Life - CS Edition (Japan).zip
-Tony Hawk - Ride (USA).zip
+Tony Hawk - Ride (Europe).zip
 Tony Hawk - Shred (USA).zip
 Tony Hawk's American Wasteland (USA, Europe).zip
 Tony Hawk's Pro Skater 5 (USA) (En,Fr,De,Es,It).zip
@@ -1390,14 +1390,14 @@ Top Gun - Hard Lock (USA, Europe).zip
 Top Hand Rodeo Tour (USA).zip
 Top Spin 2 (USA).zip
 Top Spin 3 (USA, Europe) (En,Fr,De,Es,It).zip
-Top Spin 4 (USA, Europe) (En,Fr,De,Es,It).zip
+Top Spin 4 (Europe) (En,Fr,De,Es,It).zip
 Tornado Outbreak (USA).zip
 Tour de France 2012, Le (Europe).zip
 Tour de France 2013, Le (Europe).zip
 Tour de France, Le (Europe).zip
 Tour de France, Le - Season 2014 (Europe).zip
 Transformers - Dark of the Moon (USA) (En,Fr,De,Es,It).zip
-Transformers - Devastation (USA, Europe) (En,Fr,De,Es,It).zip
+Transformers - Devastation (USA) (En,Fr,De,Es,It).zip
 Transformers - Fall of Cybertron (USA) (En,Fr,De,Es,It).zip
 Transformers - Revenge of the Fallen (USA, Europe) (En,Fr).zip
 Transformers - Rise of the Dark Spark (USA) (En,Fr,De,Es,It).zip
@@ -1429,7 +1429,7 @@ UFC Undisputed 3 (USA).zip
 Ultimate Marvel vs. Capcom 3 (USA, Japan) (En,Ja,Fr,De,Es,It).zip
 Ultra Street Fighter IV (World) (En,Ja,Fr,De,Es,It,Ko).zip
 Under Defeat HD - Deluxe Edition (Europe) (En,Fr,De,Es,It).zip
-Universe at War - Earth Assault (USA, Europe) (En,Fr,De,Es,It).zip
+Universe at War - Earth Assault (USA).zip
 Unreal Tournament III (World) (En,Fr,De,Es,It).zip
 Vampire Rain (USA, Europe).zip
 Vampire Resurrection (Japan).zip
@@ -1439,13 +1439,13 @@ Velvet Assassin (USA, Europe) (En,Fr,De,Es,It).zip
 Venetica (USA).zip
 Viking - Battle for Asgard (USA, Europe) (En,Fr,De,Es,It).zip
 Virtua Fighter 5 Online ~ Virtua Fighter 5 (USA, Europe) (En,Ja,Fr,De,Es,It).zip
-Virtua Tennis 2009 (USA, Europe).zip
+Virtua Tennis 2009 (USA).zip
 Virtua Tennis 3 (USA, Europe) (En,Fr,De,Es,It).zip
 Virtua Tennis 4 (USA, Europe).zip
 Viva Pinata (USA) (En,Ja,Fr,De,Es,It,Ko) (Bonus Disc).zip
 Viva Pinata (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl,Cs,Hu,Sk).zip
-Viva Pinata - Party Animals (USA) (Rev 1).zip
-Viva Pinata - Trouble in Paradise ~ Atsumare! Pinata 2 - Garden no Dai-Pinch (World).zip
+Viva Pinata - Party Animals (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl,Ru,Cs).zip
+Viva Pinata - Trouble in Paradise ~ Atsumare! Pinata 2 - Garden no Dai-Pinch (USA, Asia).zip
 Voice, The - I Want You (USA).zip
 W.L.O. Sekai Ren'ai Kikou (Japan).zip
 Walking Dead, The - A Telltale Games Series - Game of the Year Edition (USA, Europe).zip
@@ -1460,7 +1460,7 @@ Warriors - Legends of Troy (Europe).zip
 Warriors Orochi (USA) (En,Fr,De).zip
 Warriors Orochi 2 (USA) (En,Fr,De).zip
 Warriors Orochi 3 (USA).zip
-WarTech - Senko no Ronde (World) (En,Ja).zip
+WarTech - Senko no Ronde (USA, Europe) (En,Ja).zip
 Watch_Dogs (USA, Europe) (En,Fr,De,Es,It) (Disc 1) (Installation Disc).zip
 Watch_Dogs (USA, Europe) (En,Fr,De,Es,It) (Disc 2) (Game Disc).zip
 Watchmen - The End Is Nigh - Parts 1 and 2 (USA, Europe) (En,Fr,De,Es,It).zip
@@ -1471,7 +1471,7 @@ Wheelman (USA, Europe) (En,Fr,De,Es,It).zip
 Where the Wild Things Are - The Videogame (USA, Europe).zip
 Who Wants to be a Millionaire - 2012 Edition (USA).zip
 Williams Pinball Classics (Europe).zip
-Winning Eleven - Pro Evolution Soccer 2007 (USA) (En,Es).zip
+Winning Eleven - Pro Evolution Soccer 2007 (USA).zip
 Winning Post World 2010 (Japan).zip
 Winter Sports 2 - The Next Challenge (USA).zip
 Winter Sports 2009 - The Next Challenge (Europe).zip
@@ -1482,10 +1482,10 @@ Witcher 2, The - Assassins of Kings - Enhanced Edition (USA) (En,Fr,Es,Pl) (Disc
 Witcher 2, The - Assassins of Kings - Enhanced Edition (USA) (En,Fr,Es,Pl) (Disc 2).zip
 Wolf Among Us, The - A Telltale Games Series (USA, Europe).zip
 Wolfenstein (World) (En,Fr,De,Es,It,Ru).zip
-Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 1).zip
-Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 2).zip
-Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 3).zip
-Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 4).zip
+Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 1).zip
+Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 2).zip
+Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 3).zip
+Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 4).zip
 World Championship Poker 2 - All In (Europe).zip
 World Championship Poker featuring Howard Lederer - All In (USA).zip
 World of Outlaws - Sprint Cars (USA).zip
@@ -1505,20 +1505,20 @@ WSC Real 09 - World Snooker Championship (Europe).zip
 WWE '12 (USA).zip
 WWE '13 (USA, Europe).zip
 WWE 2K14 (USA, Europe).zip
-WWE 2K15 (USA, Europe).zip
+WWE 2K15 (USA).zip
 WWE 2K16 (USA).zip
 WWE 2K17 (USA).zip
 WWE All Stars (USA, Europe).zip
 WWE Legends of WrestleMania (USA).zip
 WWE SmackDown vs. Raw 2007 (USA, Europe).zip
 WWE SmackDown vs. Raw 2008 (USA, Europe).zip
-WWE SmackDown vs. Raw 2009 (USA, Europe) (En,Fr,De,Es,It).zip
+WWE SmackDown vs. Raw 2009 (USA, Europe).zip
 WWE SmackDown vs. Raw 2010 (USA, Europe).zip
-WWE SmackDown vs. Raw 2011 (USA, Europe) (En,Fr,De,Es,It).zip
+WWE SmackDown vs. Raw 2011 (USA, Europe).zip
 X Edge Dash (Japan).zip
 X Factor, The (Europe).zip
 X-Blades (USA).zip
-X-Men - Destiny (USA, Europe).zip
+X-Men - Destiny (USA).zip
 X-Men - The Official Game (USA).zip
 X-Men Origins - Wolverine - Uncaged Edition (USA, Europe) (En,Fr,Es,It).zip
 Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).zip
