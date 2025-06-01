@@ -1,4 +1,4 @@
-﻿# Top 25 Xbox 360 games rated by MetaCritic & GameFAQs, Roughly 186GB
+﻿# Top 15 Xbox 360 games rated by MetaCritic & GameFAQs, Roughly 186GB
 Batman - Arkham City - Game of the Year Edition (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru) (Disc 1).zip
 Batman - Arkham City - Game of the Year Edition (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru) (Disc 2).zip
 BioShock (World) (En,Fr,De,Es,It).zip
@@ -8,10 +8,9 @@ Call of Duty 4 - Modern Warfare (USA, Europe).zip
 Dark Souls - Prepare to Die Edition (Europe).zip
 Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 1) (Rev 1).zip
 Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 2) (Rev 1).zip
-Elder Scrolls V, The - Skyrim (Japan) (Disc 2) (Kinect Sensor Taiou Title Update Disc).zip
 Elder Scrolls V, The - Skyrim (USA, Europe).zip
 Fallout - New Vegas (USA, Europe).zip
-Fallout 3 - Game of the Year Edition (USA) (Disc 2).zip
+Fallout 3 (USA).zip
 Gears of War - Judgment (USA, Europe) (En,Fr,Es,Nl,No,Da,Fi,Zh,Ko,Pl,Ru,Cs).zip
 Gears of War 3 (World) (En,Fr,Pt,Zh,Ko,Pl,Ru,Cs,Hu).zip
 Grand Theft Auto IV (USA) (En,Fr,De,Es,It).zip
@@ -24,3 +23,4 @@ Mass Effect 2 (USA, Europe) (En,Es) (Disc 2).zip
 Orange Box, The (World) (En,Fr,De).zip
 Portal 2 (World) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).zip
 Red Dead Redemption - Game of the Year Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 1) (Red Dead Redemption Single Player).zip
+Red Dead Redemption - Game of the Year Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 2) (Undead Nightmare and Multiplayer).zip
