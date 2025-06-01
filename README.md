@@ -4,7 +4,9 @@
 
 1. Click on [Releases] to the right and download the zip that matches your OS to the folder you want your backups
 2. Extract the zip
-3. EDIT THE GAME LISTS IN THE `FILTERS` FOLDER
+3. EDIT THE GAME `TOP_` LISTS IN THE `FILTERS` FOLDER
+    1. Remove entries from the `TOP_` list that are not part of your collection
+    2. Copy/Paste entries from the `1G1R_` list that are missing from `TOP_`
 4. Run the script for the system you're backing up
 
 ## Details
@@ -19,7 +21,9 @@ In order to give you a starting point, I used a three-step process to create an 
 2. Use various websites to determine the "Top" titles for a system
 3. Limit list to 200GB (or, for early systems, until I stopped recognizing games :P )
 
-In this way, I generated lists that likely contain most of the games in your library - You can add/remove games from your lists as you need!
+In this way, I generated lists that likely contain most of the games in your library.
+
+You should EDIT the `FILTERS/TOP_*` lists by removing entries you don't want and adding entries from the `FILTERS/1G1R_*` list.
 
 ### The Scripts
 
@@ -27,7 +31,7 @@ The scripts use a 4-step process to download the ROMS you specify:
 
 1. If `rclone` isn't found, [Download Rclone] (latest version) and extract it.
 2. If the ROMS need to be unzipped to be used (Most disk-based systems), check the FILTER list against the folders
-3. Run `rclone` against myrient using the filter you edited
+3. Run `rclone` against [Myrient] using the filter you edited
 4. If necessary, unzip the archive and delete the zip file to preserve space
 
 #### Windows
@@ -46,7 +50,7 @@ The SteamOS scripts download the Linux version of rclone and are written in Bash
 
 #### OSx
 
-I don't actually have a machine running OSx to test the scripts, but as long as you [Download Rclone] and put the executable in the same folder as the scripts, you should be OK!
+I don't actually have a machine running OSx to test the scripts, but as long as you [Download Rclone] and put the executable in the same folder as the SteamOS scripts, you should be OK!
 
 #### Acknowledgements
 
